@@ -1,1 +1,2 @@
-# MJL-Bioinformatic Software
+# MJL-Bioinformatic Scripts
+Under development!!
