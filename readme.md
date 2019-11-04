@@ -23,8 +23,7 @@ Codon Usage Bias analysis - Conserved Regions ([CUBACR](https://github.com/mauri
 CUBACR scripts are programmed to process multifasta files containing ortholog genes of the desired core-gene set (or corresponding to proteins with a defined expression level), make an amino acid guided codon alignment for each gene (using TranslatorX software), and to output the conserved and variable regions of all genes on the core-genome set.  
 
 ### Poster at A2B2C 2019
-<embed src="poster_lozano.pdf" type="application/pdf" />
-
+[Download the Poster!](poster_lozano.pdf)
 
 ## Publications
   
