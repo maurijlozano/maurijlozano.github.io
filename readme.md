@@ -11,21 +11,20 @@ Another research line at Lagares's LAB was studying horizontal gene transfer on 
   
 <a name="id1"></a>
 ## CUBES
-![CUBES](https://github.com/maurijlozano/maurijlozano.github.io/blob/master/Captura%20de%20pantalla%20de%202019-11-01%2014-40-47.png "CUBES Pipeline")
+![CUBES](https://github.com/maurijlozano/maurijlozano.github.io/blob/master/Captura%20de%20pantalla%20de%202019-11-01%2014-40-47.png "CUBES Pipeline")  
+
 Codon Usage Bias Evolutionary Scripts ([CUBES](https://github.com/maurijlozano/CUBES)) is a software package designed to study the evolutionary traits of codon bias. To that end, a set of progressively ancestral core-genomes must first be obtained using for example Edgar or Get-Homologues software. The core-genome sets (e.g. C1 -> Cn) are constructed by the successive incorporation of more distantly related genomes -following the phylogeny of the family/genus- to the analysis. Next, these Cn gene sets are used to calculate the modal codon use frequencies (for each set), the relative synonymous codon use (RSCU, for each gene), and to perform a Correspondence analysis. Additionally, tools to analyse the evolutionary traits of codon bias are provided.
   
 <a name="id1"></a>
 ## CUBACR
-![CUBACR](https://github.com/maurijlozano/maurijlozano.github.io/blob/master/Captura%20de%20pantalla%20de%202019-11-01%2015-47-49.png "CUBACR Pipeline")
+![CUBACR](https://github.com/maurijlozano/maurijlozano.github.io/blob/master/Captura%20de%20pantalla%20de%202019-11-01%2015-47-49.png "CUBACR Pipeline")  
+
 Codon Usage Bias analysis - Conserved Regions ([CUBACR](https://github.com/maurijlozano/CUBACR)): is a set of scripts for the codon usage bias analysis of Conserved and Variable regions from core genome proteins.
 CUBACR scripts are programmed to process multifasta files containing ortholog genes of the desired core-gene set (or corresponding to proteins with a defined expression level), make an amino acid guided codon alignment for each gene (using TranslatorX software), and to output the conserved and variable regions of all genes on the core-genome set.  
 
 ### Poster at A2B2C 2019
-<object data="https://github.com/maurijlozano/maurijlozano.github.io/blob/master/poster_lozano.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="https://github.com/maurijlozano/maurijlozano.github.io/blob/master/poster_lozano.pdf">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/maurijlozano/maurijlozano.github.io/blob/master/poster_lozano.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+[Download the Poster!](https://github.com/maurijlozano/maurijlozano.github.io/blob/master/poster_lozano.pdf)
+
 
 ## Publications
   
