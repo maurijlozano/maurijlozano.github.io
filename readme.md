@@ -20,6 +20,13 @@ Codon Usage Bias Evolutionary Scripts ([CUBES](https://github.com/maurijlozano/C
 Codon Usage Bias analysis - Conserved Regions ([CUBACR](https://github.com/maurijlozano/CUBACR)): is a set of scripts for the codon usage bias analysis of Conserved and Variable regions from core genome proteins.
 CUBACR scripts are programmed to process multifasta files containing ortholog genes of the desired core-gene set (or corresponding to proteins with a defined expression level), make an amino acid guided codon alignment for each gene (using TranslatorX software), and to output the conserved and variable regions of all genes on the core-genome set.  
 
+### Poster at A2B2C 2019
+<object data="https://github.com/maurijlozano/maurijlozano.github.io/blob/master/poster_lozano.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://github.com/maurijlozano/maurijlozano.github.io/blob/master/poster_lozano.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://github.com/maurijlozano/maurijlozano.github.io/blob/master/poster_lozano.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ## Publications
   
 * López, J.L., **Lozano, M.J.**, Lagares, A., Fabre, M.L., Draghi, W.O., Del Papa, M.F., Pistorio, M., Becker, A., Wibberg, D., Schlüter, A., Pühler, A., Blom, J., Goesmann, A., Lagares, A., 2019. Codon Usage Heterogeneity in the Multipartite Prokaryote Genome: Selection-Based Coding Bias Associated with Gene Location, Expression Level, and Ancestry. [MBio 10, 1–20.](https://doi.org/10.1128/mBio.00505-19)
