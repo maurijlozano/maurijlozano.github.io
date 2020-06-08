@@ -1,6 +1,6 @@
-MJL-Bioinformatic Scripts
+IBBM Bioinformatic Group 1
 ============================
-This is the website of Mauricio J. Lozano developed software.
+This is the website of Mauricio J. Lozano and collaborators developed software.
 Mauricio J. Lozano is a resercher at the *Instituto de Biotecnología y Biología Molecular* (IBBM) which belongs to the National research council (CONICET) of Argentina and the National University of La Plata.
   
 Mauricio's research career began with the study of early molecular determinants of the symbiosis between rhizobia and legume plants, at Antonio Lagares's LAB. He focused on molecular biology techniques aimed at the discovery of genes induced during the interaction of the symbiotic partners. During his PhD, he adapted a RIVET (Recombination based *in vivo* expression technology) approach for the study of *E. meliloti* interaction with *Medicago sativa*. Several variants were constructed, including one based on transposition.
