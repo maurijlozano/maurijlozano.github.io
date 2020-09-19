@@ -26,7 +26,8 @@ CUBACR scripts are programmed to process multifasta files containing ortholog ge
 [Download the Poster!](poster_lozano.pdf)
 
 ## Publications
-  
+
+* Lopez, J.L; **Lozano, M.J**; Fabre, M.L; y A. Lagares. Codon Usage Optimization in the Prokaryotic Tree of Life: How Synonymous Codons Are Differentially Selected in Sequence Domains with Different Expression Levels and Degrees of Conservation. mBIO. July/August 2020 Volume 11 Issue 4 e00766-20. *José Luis López and Mauricio Javier Lozano contributed equally to this work. Author order was determined alphabetically. DOI:10.1128/mBio.00766-20
 * López, J.L., **Lozano, M.J.**, Lagares, A., Fabre, M.L., Draghi, W.O., Del Papa, M.F., Pistorio, M., Becker, A., Wibberg, D., Schlüter, A., Pühler, A., Blom, J., Goesmann, A., Lagares, A., 2019. Codon Usage Heterogeneity in the Multipartite Prokaryote Genome: Selection-Based Coding Bias Associated with Gene Location, Expression Level, and Ancestry. [MBio 10, 1–20.](https://doi.org/10.1128/mBio.00505-19)
 * López, J.L., Alvarez, F., Príncipe, A., Salas, M.E., **Lozano, M.J.**, Draghi, W.O., Jofré, E., Lagares, A., **2018**. *Isolation, taxonomic analysis, and phenotypic characterization of bacterial endophytes present in alfalfa (Medicago sativa) seeds.* [J. Biotechnol. 267, 55–62.](https://doi.org/10.1016/j.jbiotec.2017.12.020)
 * Draghi, W.O., Del Papa, M.F., Barsch, A., Albicoro, F.J., **Lozano, M.J.**, Pühler, A., Niehaus, K., Lagares, A., **2017.** *A metabolomic approach to characterize the acid-tolerance response in Sinorhizobium meliloti.* [Metabolomics 13, 1–12.](https://doi.org/10.1007/s11306-017-1210-2)
