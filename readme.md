@@ -1,6 +1,6 @@
 IBBM Bioinformatic Group 1
 ============================
-This is the website of Mauricio J. Lozano and collaborators developed software.
+This website presents the software developed by Mauricio J. Lozano and collaborators at the IBBM.
 Mauricio J. Lozano is a resercher at the *Instituto de Biotecnología y Biología Molecular* (IBBM) which belongs to the National research council (CONICET) of Argentina and the National University of La Plata.
   
 Mauricio's research career began with the study of early molecular determinants of the symbiosis between rhizobia and legume plants, at Antonio Lagares's LAB. He focused on molecular biology techniques aimed at the discovery of genes induced during the interaction of the symbiotic partners. During his PhD, he adapted a RIVET (Recombination based *in vivo* expression technology) approach for the study of *E. meliloti* interaction with *Medicago sativa*. Several variants were constructed, including one based on transposition.
@@ -8,7 +8,18 @@ There after, in collaboration with Dr. Eugenia Salas (a past member and PhD stud
 During this work Mauricio developed Perl scripts for the analysis of the raw sequence reads. These scripts were required for the classification of reads by mutant mixture and test condition. [STM-seq-count](https://github.com/maurijlozano/STM-seq-count)  
   
 Another research line at Lagares's LAB was studying horizontal gene transfer on the *Ensifer* genus, and after purifying and sequencing a collection of high molecular weight plasmids, José Luis López and Antonio began to analyze the codon usage patterns of these mobilome. On these work, the authors describe the different genetic composition, and codon usage bias of *E. meliloti* chromosome, megaplasmids, and accessory plasmids. Here, a set of scripts which then became [CUBES](#id1) began to be developed, using linux bash and R for graphics and matrix manipulations.
+
+During the COVID-19 period, a project to find differentially located ISs on bacteria originated the development of [ISCompare](#ISC). ISCompare is now published on BioRxiv.
+
+<a name="ISC"></a>
+## ISCompare: a new tool for the identification of differentially located insertion sequences on bacteria
+Bacterial genomes are composed by a core and an accessory genome. The first composed of housekeeping and essential genes, while the second is composed, in its majority, of mobile genetic elements, including transposable elements (Tes). Insertion sequences (ISs) are the smallest TEs formed by imperfect terminal inverted repeats (IRs) and a transposase. ISs are relevant because they have an important role in genome evolution, and contribute to bacterial genome plasticity and adaptability. ISs can spread in a genome, presenting different locations in nearly related strains, and producing phenotypic variations. We developed ISCompare to profile IS mobilization events in related bacterial strains. ISCompare uses blastn to look for ISs on a query genome assembly, extracts the IS flanks and maps them to the reference genome. After filtering and analysis steps, a list of differentially located ISs is reported. ISCompare was validated using artificial genomes with simulated random IS insertions and real sequences from Escherichia coli, Pseudomonas aeruginosa, Bordetella pertussis and Ensifer meliloti. In the first case, ISCompare performed very well, achieving high precision (100%) and sensitivity (94%). For real genomes a precision greater than 89% in average was observed, false positive arising mostly from consecutive IS insertions and repeated sequences. Finally we compared ISCompare with ISSeeker, achieving the same or better results, with the advantage that ISCompare can analyse multiple ISs at the same time, and direclty reports list of candidate DLIS. We think that ISCompare provides an easy and straightforward approach to look for differentially located ISs on bacterial genomes. 
+BioRxiv article: [Here](https://doi.org/10.1101/2020.10.16.342287)
   
+![ISCompare](https://github.com/maurijlozano/ISCompare/blob/master/overview.png)
+
+
+
 <a name="id1"></a>
 ## CUBES
 ![CUBES](cubes.png)  
