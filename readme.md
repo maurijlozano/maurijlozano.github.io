@@ -17,10 +17,8 @@ Bacterial genomes are composed by a core and an accessory genome. The first comp
 **BioRxiv article**: [Here](https://doi.org/10.1101/2020.10.16.342287).  
 **Paper at G3 Genes|Genomes|Genetics:** [Here](https://doi.org/10.1093/g3journal/jkab181)  
 
-<img src="overview.png" width="1200"/>
 
 ![ISCompare](overview.png)
-
 
 
 <a name="id1"></a>
