@@ -17,7 +17,8 @@ Bacterial genomes are composed by a core and an accessory genome. The first comp
 **BioRxiv article**: [Here](https://doi.org/10.1101/2020.10.16.342287).  
 **Paper at G3 Genes|Genomes|Genetics:** [Here](https://doi.org/10.1093/g3journal/jkab181)  
 
-  
+<img src="overview.png" width="1200"/>
+
 ![ISCompare](overview.png)
 
 
@@ -39,6 +40,9 @@ CUBACR scripts are programmed to process multifasta files containing ortholog ge
 [Download the Poster!](poster_lozano.pdf)
 
 ## Publications
+* BioF is a novel B2 metallo-ß-lactamase from *Pseudomonas* sp. isolated from an on-farm biopurification system. 2021. Juan Hilario Cafiero, María Carla Martini, **Mauricio Javier Lozano**, Antonio Lagares, Carolina Vacca, Pablo Emiliano Tomatis, María Florencia Del Papa. [Environmental Microbiology, 2021-11.](https://doi.org/10.1111/1462-2920.15822).
+* Phylogenomic analysis supports the reclassification of *Burkholderia novacaledonica* as *Caballeronia novacaledonica comb. nov.* 2021. **Mauricio Javier Lozano**, Ezequiel Gerdardo Mogro and Walter Omar Draghi. [Int J Syst Evol Microbiol. 2021 Jun;71(6).](https://doi.org/10.1099/ijsem.0.004843. PMID: 34165423).
+* Comparative analysis of three *Bradyrhizobium diazoefficiens* genomes show specific mutations acquired during selection for a higher motility phenotype and adaptation to laboratory conditions. 2021. **Lozano, Mauricio**; Redondo-Nieto, Miguel; Garrido-Sanz, Daniel; Mongiardini, Elías; Quelas, Juan; Mengucci, Florencia; Dardis, Carolina; Lodeiro, Anibal; Althabegoiti, Maria. Accepted, Microbiology Spectrum (#Spectrum00569-21R1, In press).
 * E.G. Mogro, N. Ambrosis, **M.J. Lozano**. Easy identification of insertion sequence mobilization events in related bacterial strains with ISCompare. 2020. G3 Genes\|Genomes\|Genetics, 2021; [jkab181](https://doi.org/10.1093/g3journal/jkab181)
 * **Mauricio Javier Lozano**, Ezequiel Gerdardo Mogro and Walter Omar Draghi. Phylogenomic analysis supports the reclassification of Burkholderia novacaledonica as Caballeronia novacaledonica comb. nov. 2021.  Int J Syst Evol Microbiol. 2021 Jun;71(6). doi: 10.1099/ijsem.0.004843. PMID: 34165423.
 * Albicoro FJ, Draghi WO, Martini MC, Salas ME, Torres Tejerizo GA, **Lozano MJ**, López JL, Vacca C, Cafiero JH, Pistorio M, Bednarz H, Meier D, Lagares A, Niehaus K, Becker A, Del Papa MF. The two-component system ActJK is involved in acid stress tolerance and symbiosis in Sinorhizobium meliloti. J Biotechnol. 2021 Mar 10;329:80-91. doi: 10.1016/j.jbiotec.2021.01.006. Epub 2021 Feb 2. PMID: 33539896.
