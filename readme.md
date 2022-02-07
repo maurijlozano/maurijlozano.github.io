@@ -51,8 +51,7 @@ CUBACR scripts are programmed to process multifasta files containing ortholog ge
 [Download the Poster!](poster_lozano.pdf)
 
 ## Publications
-* Analysis of SARS-CoV-2 synonymous codon usage evolution throughout the COVID-19 pandemic. MOgro E. G, Daniela Bottero and Mauricio J. Lozano. Virology, Volume 568, March 2022, Pages 56-71; [DOI: 10.1016/j.virol.2022.01.011](https://doi.org/10.1016/j.virol.2022.01.011)
-
+* Analysis of SARS-CoV-2 synonymous codon usage evolution throughout the COVID-19 pandemic. MOgro E. G, Daniela Bottero and **Mauricio J. Lozano**. Virology, Volume 568, March 2022, Pages 56-71; [DOI: 10.1016/j.virol.2022.01.011](https://doi.org/10.1016/j.virol.2022.01.011)
 * BioF is a novel B2 metallo-ß-lactamase from *Pseudomonas* sp. isolated from an on-farm biopurification system. 2021. Juan Hilario Cafiero, María Carla Martini, **Mauricio Javier Lozano**, Antonio Lagares, Carolina Vacca, Pablo Emiliano Tomatis, María Florencia Del Papa. [Environmental Microbiology, 2021-11.](https://doi.org/10.1111/1462-2920.15822)
 * Phylogenomic analysis supports the reclassification of *Burkholderia novacaledonica* as *Caballeronia novacaledonica comb. nov.* 2021. **Mauricio Javier Lozano**, Ezequiel Gerdardo Mogro and Walter Omar Draghi. [Int J Syst Evol Microbiol. 2021 Jun;71(6).](https://doi.org/10.1099/ijsem.0.004843. PMID: 34165423).
 * Comparative analysis of three *Bradyrhizobium diazoefficiens* genomes show specific mutations acquired during selection for a higher motility phenotype and adaptation to laboratory conditions. 2021. **Lozano, Mauricio**; Redondo-Nieto, Miguel; Garrido-Sanz, Daniel; Mongiardini, Elías; Quelas, Juan; Mengucci, Florencia; Dardis, Carolina; Lodeiro, Anibal; Althabegoiti, Maria. [Microbiology Spectrum (#Spectrum00569-21R1)](https://doi.org/10.1128/Spectrum.00569-21).
