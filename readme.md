@@ -15,6 +15,10 @@ During the COVID-19 period, a project to find differentially located ISs on bact
 
 Also, in collaboration with Dr. Walter Draghi the reclassification of *Burkholderia novacaledonica* as *Caballeronia novacaledonica comb. nov.* was done during 2020. [Int J Syst Evol Microbiol](https://doi.org/10.1099/ijsem.0.004843). PMID: 34165423. 2021 Jun;71(6). 
 
+In 2021, we collected thousands of SARS-CoV-2 sequences to analyze the adaptation of its codon usage profile with time. The results of this work titled *"Analysis of SARS-CoV-2 synonymous codon usage evolution throughout the COVID-19 pandemic"*, that we have made in collaboration with Dr. Daniela Bottero, are available in VIROLOGY (Virology, Volume 568, March 2022, Pages 56-71; [DOI: 10.1016/j.virol.2022.01.011](https://doi.org/10.1016/j.virol.2022.01.011))
+
+
+
 <a name="BEE"></a>
 ## Comparative Analysis of Three Bradyrhizobium diazoefficiens Genomes Show Specific Mutations Acquired during Selection for a Higher Motility Phenotype and Adaption to Laboratory Conditions.
 Microbial genomes are being extensively studied using next-generation sequencing technologies in order to understand the changes that occur under different selection regimes. In this work, the number and type of mutations that have occurred in three Bradyrhizobium diazoefficiens USDA 110T strains under laboratory conditions and during selection for a more motile phenotypic variant were analyzed. Most of the mutations found in both processes consisted of single nucleotide polymorphisms, single nucleotide deletions or insertions. In the case of adaptation to laboratory conditions, half of the changes occurred within intergenic regions, and around 80% were insertions. When the more motile phenotypic variant was evaluated, eight single nucleotide polymorphisms and an 11-bp deletion were found, although none of them was directly related to known motility or chemotaxis genes. Two mutants were constructed to evaluate the 11-bp deletion affecting the alpha subunit of 2-oxoacid:acceptor oxidoreductase (AAV28_RS30705-blr6743). The results showed that this single deletion was not responsible for the enhanced motility phenotype.
@@ -47,6 +51,8 @@ CUBACR scripts are programmed to process multifasta files containing ortholog ge
 [Download the Poster!](poster_lozano.pdf)
 
 ## Publications
+* Analysis of SARS-CoV-2 synonymous codon usage evolution throughout the COVID-19 pandemic. MOgro E. G, Daniela Bottero and Mauricio J. Lozano. Virology, Volume 568, March 2022, Pages 56-71; [DOI: 10.1016/j.virol.2022.01.011](https://doi.org/10.1016/j.virol.2022.01.011)
+
 * BioF is a novel B2 metallo-ß-lactamase from *Pseudomonas* sp. isolated from an on-farm biopurification system. 2021. Juan Hilario Cafiero, María Carla Martini, **Mauricio Javier Lozano**, Antonio Lagares, Carolina Vacca, Pablo Emiliano Tomatis, María Florencia Del Papa. [Environmental Microbiology, 2021-11.](https://doi.org/10.1111/1462-2920.15822)
 * Phylogenomic analysis supports the reclassification of *Burkholderia novacaledonica* as *Caballeronia novacaledonica comb. nov.* 2021. **Mauricio Javier Lozano**, Ezequiel Gerdardo Mogro and Walter Omar Draghi. [Int J Syst Evol Microbiol. 2021 Jun;71(6).](https://doi.org/10.1099/ijsem.0.004843. PMID: 34165423).
 * Comparative analysis of three *Bradyrhizobium diazoefficiens* genomes show specific mutations acquired during selection for a higher motility phenotype and adaptation to laboratory conditions. 2021. **Lozano, Mauricio**; Redondo-Nieto, Miguel; Garrido-Sanz, Daniel; Mongiardini, Elías; Quelas, Juan; Mengucci, Florencia; Dardis, Carolina; Lodeiro, Anibal; Althabegoiti, Maria. [Microbiology Spectrum (#Spectrum00569-21R1)](https://doi.org/10.1128/Spectrum.00569-21).
